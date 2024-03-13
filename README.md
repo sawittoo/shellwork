@@ -1,2 +1,2 @@
-# lesson14
-2020年度システムソフトウェア特論の第14回授業用リポジトリ
+# shellwork
+実務に必要なshellscriptやpowershellのコマンドを保存
