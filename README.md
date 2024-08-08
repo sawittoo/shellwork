@@ -1,2 +1,2 @@
 # shellwork
-実務に必要なshellscriptやpowershellのコマンドを保存
+The place to save shellscript or powershell for my job
